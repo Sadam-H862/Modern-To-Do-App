@@ -1,2 +1,20 @@
-# Modern-To-Do-App
-Modern and responsive To-Do List web application built using HTML, CSS, and JavaScript. Features include task creation, deletion, completion tracking, and persistent data storage using localStorage. Designed with clean UI principles and optimized for performance across modern browsers.
+# Modern To-Do App
+## 📌 Overview
+A modern and responsive task management web application.
+
+## 🌍 Live Demo
+https://sadam-h862.github.io/Modern-To-Do-App/
+
+## 🚀 Features
+- Add tasks
+- Delete tasks
+- Mark completed
+- Data saved using localStorage
+
+## 🛠 Built With
+- HTML
+- CSS
+- JavaScript
+
+## 👨‍💻 Author
+Sadam Hussein
